@@ -1,0 +1,17 @@
+{
+    "name": "butchermancaps-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Typomondo"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/butchermancaps-bower.git"
+    },
+    "description": "Butcherman Caps font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
